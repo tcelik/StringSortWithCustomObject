@@ -14,7 +14,7 @@ public class App {
         new App().run();
     }
 
-    public void run()
+    public void run() //ekleme
     {
         getSongs();
         System.out.println(songList);
